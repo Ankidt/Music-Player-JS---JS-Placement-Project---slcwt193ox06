@@ -274,6 +274,7 @@ nav ul li:hover {
     cursor: pointer;
     width: 20px;
     margin: 0 10px;
+    background-color: #ffffff;
 }
 
 .rightbtn {
