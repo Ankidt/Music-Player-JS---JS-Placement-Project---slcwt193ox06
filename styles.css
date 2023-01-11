@@ -55,7 +55,7 @@ nav ul li:hover {
     position: relative;
     margin: 20px auto;
     border-radius: 20px;
-    height:75vh;
+    height:70vh;
     overflow-y: scroll;
 }
 
